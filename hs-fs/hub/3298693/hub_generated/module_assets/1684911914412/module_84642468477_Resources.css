@@ -40,7 +40,7 @@
 .resource_wrp .pagination-wrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-flex-wrap:nowrap;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:32px 0;width:100%}
 .resource_wrp .pagination-wrapper a{color:#3D405B;font-weight:600;line-height:1.4;padding:0 16px;white-space:pre-wrap;font-size:16px;white-space:pre-wrap;min-height:16px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-transition:.2s;transition:.2s;opacity:1}
 .resource_wrp .pagination-wrapper a.active{color:#weight:600;line-height:1.4;padding:0 16px;white-space:pre-wrap;font-size:16px;white-space:pre-wrap;min-height:16px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-transition:.2s;transition:.2s;opacity:1}
-.resource_wrp .pagination-wrapper a:hover{color:#27AAE1}
+.resource_wrp .pagination-wrapper a:hover{color:#2B9348}
 @media (min-width:768px){
 .resource_wrp .wrp2 .fltritrms{top:42px}
 }
@@ -48,14 +48,14 @@
 .resource_wrp .wrp2 .fltropen .fltritrms{overflow:hidden auto;z-index:2;background:#fff;display:block}
 .resource_wrp .wrp2 .fltropen .fltrbox{transition:all .1s ease 0s;border:1px solid #3D405B}
 .resource_wrp .wrp2 .fltropen .box .aarow{-webkit-transform:rotate(-180deg);-moz-transform:rotate(-180deg);-ms-transform:rotate(-180deg);transform:rotate(-180deg)}
-.resource_wrp .wrp2 .fltritrms li:hover{background:#27AAE1;color:#fff}
+.resource_wrp .wrp2 .fltritrms li:hover{background:#2B9348;color:#fff}
 .resource_wrp .grid-sizer{width:374px;min-height:1px}
 .resource_wrp .grid-spacer{width:36px;min-height:1px}
 .resource_wrp .hdingwrp h2{font-size:48px;font-family:Rokkitt,serif;width:100%;line-height:1.4;margin:0}
 .resource_wrp .selct_optn{width:100%;margin:0;font-size:24px;color:#3D405B;line-height:1.4;padding:28px 0 12px 0;font-family:Rokkitt,serif}
 .resource_wrp .top_filter{width:100%;border:1px solid rgba(41,59,105,.3);display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row}
 .resource_wrp .top_filter span{text-align:center;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;padding:20px 0;color:#3D405B;cursor:pointer;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;margin:-1px;border:1px solid transparent;font-weight:600}
-.resource_wrp .top_filter span.active{color:#fff;background:#27AAE1}
+.resource_wrp .top_filter span.active{color:#fff;background:#2B9348}
 .resource_wrp .fltr_sec{margin:20px 0 42px 0;justify-content:flex-start}
 .resource_wrp img.icon{position:relative;bottom:98px;height:48px}
 .resource_wrp .titlewrp h4{font-family:Open Sans,sans-serif;font-kerning:normal;font-size:1.6rem;margin:0;color:inherit;font-weight:inherit}
@@ -69,7 +69,7 @@
 .resource_wrp form{max-width:100%;width:100%}
 .resource_wrp form .resource{all:unset;text-align:center;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;padding:20px 0;color:#3D405B;cursor:pointer;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;margin:-1px;border:1px solid transparent;font-weight:600;cursor:pointer}
 .resource_wrp form .resource:hover{background:rgba(41,59,105,.3)}
-.resource_wrp form .resource.active,.resource_wrp form .resource.active:hover{color:#fff;background:#27AAE1}
+.resource_wrp form .resource.active,.resource_wrp form .resource.active:hover{color:#fff;background:#2B9348}
 .resource_wrp .item.Guides .btnwrp a.normal_btn{color:#3fbfb9;-webkit-text-decoration:underline;text-decoration:underline}
 .resource_wrp .item.Podcasts .btnwrp a.normal_btn{color:#283618;-webkit-text-decoration:underline;text-decoration:underline}
 .resource_wrp .item.Articles .btnwrp a.normal_btn{color:#B7B7A4;-webkit-text-decoration:underline;text-decoration:underline}
@@ -92,7 +92,7 @@
 .resource_wrp .slecrwrp>div{color:#3D405B;font-weight:600;line-height:1.4;font-size:16px;min-height:16px}
 .resource_wrp .slecrwrp.selct_open{border:1px solid #3D405B}
 .resource_wrp .slecrwrp ul li button{all:unset;width:100%;padding:4px 22px;-webkit-transition:.1s;transition:.1s}
-.resource_wrp .slecrwrp ul li:hover button{background:#27AAE1;color:#fff}
+.resource_wrp .slecrwrp ul li:hover button{background:#2B9348;color:#fff}
 @media(min-width:768px){
 .resource_wrp .slecrwrp{width:50%}
 }

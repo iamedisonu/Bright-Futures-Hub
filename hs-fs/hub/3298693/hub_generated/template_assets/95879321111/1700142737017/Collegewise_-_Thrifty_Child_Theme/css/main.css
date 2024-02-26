@@ -1353,7 +1353,7 @@ header.header{z-index:4}
 .mob_menu ul.submenu.level-1>li{position:relative;width:100%;text-align:center;display:block}
 .mob_menu ul.submenu.level-1>li>a{display:inline-block}
 .mob_menu ul.submenu.level-2>li>a{display:inline-block;padding:10px;color:#fff;font-size:16px;font-weight:700;line-height:1.4;opacity:1}
-.mob_menu ul.submenu.level-2>li>a:hover{color:#27AAE1}
+.mob_menu ul.submenu.level-2>li>a:hover{color:#2B9348}
 .mob_menu ul.submenu.level-1{max-height:calc(100vh - 70px);overflow-y:auto}
 }
 .cloned-btn .cta_button{color:inherit}
