@@ -44,7 +44,7 @@
 .semnrs_wrp .wrp2 .fltropen .fltritrms{overflow:hidden auto;z-index:2;background:#fff;display:block}
 .semnrs_wrp .wrp2 .fltropen .fltrbox{transition:all .1s ease 0s;border:1px solid #293c6a}
 .semnrs_wrp .wrp2 .fltropen .box .aarow{-webkit-transform:rotate(-180deg);-moz-transform:rotate(-180deg);-ms-transform:rotate(-180deg);transform:rotate(-180deg)}
-.semnrs_wrp .wrp2 .fltritrms li:hover{background:#27aae1;color:#fff}
+.semnrs_wrp .wrp2 .fltritrms li:hover{background:#27AAE1;color:#fff}
 .semnrs_wrp .grid-sizer{width:374px;min-height:1px}
 .semnrs_wrp .grid-spacer{width:36px;min-height:1px}
 .semnrs_wrp .seminar-form{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;-webkit-box-flex-wrap:nowrap;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
@@ -83,7 +83,7 @@
 .slecrwrp>div{color:#293c6a;font-weight:600;line-height:1.4;font-size:16px;min-height:16px}
 .semnrs_wrp .slecrwrp.selct_open{border:1px solid #293c6a}
 .semnrs_wrp .slecrwrp ul li button{all:unset;width:100%;padding:4px 22px;-webkit-transition:.1s;transition:.1s}
-.semnrs_wrp .slecrwrp ul li:hover button{background:#27aae1;color:#fff}
+.semnrs_wrp .slecrwrp ul li:hover button{background:#27AAE1;color:#fff}
 @media(max-width:767px){
 .semnrs_wrp .slecrwrp{margin-bottom:20px}
 }
